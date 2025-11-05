@@ -1,9 +1,9 @@
 {
-  "token": "8372596239:AAGDm15xQYl6LRt6Oxn-7nwYQwT_N0grEec",
-  "prefix": "/",
+  "token": "8271573880:AAGcgn0QkhgBhcwir5sovQykGkIGNLmEEfw",
+  "prefix": "*",
   "owner_id": 7396577693,
   "owner_name": "SaGor",
-  "bot_name": "Sagot Bot",
+  "bot_name": "SAGOR-TG-BOT",
   "greetNewMembers": {
     "enabled": true,
     "gifUrl": "https://i.imgur.com/fVMh6gO.gif"
