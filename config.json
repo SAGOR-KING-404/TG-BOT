@@ -1,0 +1,15 @@
+{
+  "token": "8372596239:AAGDm15xQYl6LRt6Oxn-7nwYQwT_N0grEec",
+  "prefix": "/",
+  "owner_id": 7396577693,
+  "owner_name": "SaGor",
+  "bot_name": "Sagot Bot",
+  "greetNewMembers": {
+    "enabled": true,
+    "gifUrl": "https://i.imgur.com/fVMh6gO.gif"
+  },
+  "autoUpdate": {
+    "enabled": true,
+    "repo": "SAGOR-KINGx/TG-BOT"
+  }
+}
