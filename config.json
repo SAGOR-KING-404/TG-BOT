@@ -3,7 +3,7 @@
   "prefix": "*",
   "owner_id": 7396577693,
   "owner_name": "SaGor",
-  "bot_name": "SAGOR-TG-BOT",
+  "bot_name": "TG-BOT",
   "greetNewMembers": {
     "enabled": true,
     "gifUrl": "https://i.imgur.com/fVMh6gO.gif"
